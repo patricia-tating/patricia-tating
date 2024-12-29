@@ -1,4 +1,4 @@
-![Patricia Tating Banner](https://github.com/patricia-tating/patricia-tating/blob/main/pt-banner.png)
+![Patricia Tating Banner](https://github.com/patricia-tating/patricia-tating/blob/main/src/pt-banner.png)
 
 🔭 &nbsp;I’m currently working on my CBDA and PL-300 certification.\
 🎓 &nbsp;I just completed my Post Degree Diploma in Data Analytics at Langara College.\
@@ -15,7 +15,7 @@
 -------------------
 ### Let's Connect!
 
-<a href="https://www.linkedin.com/in/patricia-tating/"><img src="https://ibb.co/ZNWLzLr"/></a>
-<a href="https://github.com/patricia-tating" title="github icons">Github icons created by Pixel perfect - Flaticon</a>
-<a href="https://patriciatating.wixsite.com/home" title="ui icons">Ui icons created by Yudhi Restu - Flaticon</a>
-<a href="pat.tating@gmail.com" title="email icons">Email icons created by Freepik - Flaticon</a>
+<a href="https://www.linkedin.com/in/patricia-tating/"><img src="https://github.com/patricia-tating/patricia-tating/blob/main/src/linkedin.png" width="30" height="30" alt="LinkedIn"/></a> &nbsp;&nbsp;
+<a href="https://github.com/patricia-tating"><img src="https://github.com/patricia-tating/patricia-tating/blob/main/src/github.png" width="30" height="30" alt="GitHub"/></a> &nbsp;&nbsp;
+<a href="https://patriciatating.wixsite.com/home"><img src="https://github.com/patricia-tating/patricia-tating/blob/main/src/internet.png" width="30" height="30" alt="Portfolio"/></a> &nbsp;&nbsp;
+<a href="pat.tating@gmail.com" title="email icons"><img src="https://github.com/patricia-tating/patricia-tating/blob/main/src/mail.png" width="30" height="30" alt="Email"/></a> &nbsp;&nbsp;
