@@ -1,4 +1,4 @@
-<img src="https://ibb.co/hVJP0yY" align="center" alt="patricia tating header image">
+![Patricia Tating Banner](https://github.com/patricia-tating/patricia-tating/blob/main/1.png)
 
 <!--
 **patricia-tating/patricia-tating** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
