@@ -42,7 +42,7 @@
 -------------------
 ### Let's Connect!
 
-<a href="https://www.linkedin.com/in/patricia-tating/"><img src="https://github.com/patricia-tating/patricia-tating/blob/main/src/linkedin.png" width="25" height="25" alt="LinkedIn"/></a> &nbsp;&nbsp;
 <a href="https://github.com/patricia-tating"><img src="https://github.com/patricia-tating/patricia-tating/blob/main/src/github.png" width="25" height="25" alt="GitHub"/></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/patricia-tating/"><img src="https://github.com/patricia-tating/patricia-tating/blob/main/src/linkedin.png" width="25" height="25" alt="LinkedIn"/></a> &nbsp;&nbsp;
 <a href="https://patriciatating.wixsite.com/home"><img src="https://github.com/patricia-tating/patricia-tating/blob/main/src/internet.png" width="25" height="25" alt="Portfolio"/></a> &nbsp;&nbsp;
 <a href="trizia.tating@gmail.com" title="email icons"><img src="https://github.com/patricia-tating/patricia-tating/blob/main/src/mail.png" width="25" height="25" alt="Email"/></a> &nbsp;&nbsp;
